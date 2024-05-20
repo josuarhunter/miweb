@@ -2,3 +2,6 @@ p {
     color: aqua;
     size: 1.rem;
 }
+body {
+    background: green;
+}
